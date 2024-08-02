@@ -47,7 +47,7 @@ The project includes automated tests that generate their own data. Each run gene
 
 ### API Endpoint
 
-- **URL:** `s`
+- **URL:** `/api/v1/machines/detect-outliers`
 - **Method:** `POST`
 - **Content-Type:** `application/json`
 - **Request Body:** A JSON array of machine objects with the following fields:
